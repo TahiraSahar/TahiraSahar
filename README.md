@@ -65,7 +65,8 @@ My strength lies in translating complex technical concepts into clear, user-frie
 
 📧 Email: tahirasahar@hotmail.com  
 📍 Location: Ontario, Canada  
-💼 LinkedIn: (add your LinkedIn link)
+💼 LinkedIn: www.linkedin.com/in/tahirasaharsiddiqui
+
 
 ---
 
