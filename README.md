@@ -41,15 +41,15 @@ My strength lies in translating complex technical concepts into clear, user-frie
 - Notion
 - ChatGPT & AI tools
 - Basic GitHub & Markdown
-- SEO tools (Ahrefs, SEMrush – if applicable)
+- SEO tools 
 
 ---
 
 ## Portfolio
 
 ### SEO & Content Writing
-- [Sample Article 1 – To be added]
-- [Sample Article 2 – To be added]
+- https://www.newbornhub.com/
+- [ More to be added]
 
 ### Technical Writing
 - Onboarding Guide Sample (coming soon)
